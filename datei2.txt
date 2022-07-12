@@ -6,5 +6,5 @@ Eine Aenderung im master branch in datei2.txt, mit weiterer Änderung, und mehr
 6
 7 Zeile 7 in Branch feature3 geändert
 8
-9
+9 änderung in feature4
 10 Zeile 10 geändert ind datei2.txt
