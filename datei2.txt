@@ -1,0 +1,2 @@
+eine aenderung fuer feature 2 in datei2.txt
+zweite zeile
