@@ -1,1 +1,2 @@
-Eine Aenderung im master branch in datei2.txt
+Eine Aenderung im master branch in datei2.txt, mit weiterer Änderung
+
