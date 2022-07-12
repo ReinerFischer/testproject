@@ -1,6 +1,6 @@
 Eine Aenderung im master branch in datei2.txt, mit weiterer Änderung, und mehr
 2
-3
+3 zeile 3 geändert in master
 4
 5
 6
