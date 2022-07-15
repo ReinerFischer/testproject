@@ -9,3 +9,5 @@ Eine Zeile von einem anderen User bzw. anderem Repository
 eine Zeile vom ersten User
 
 nochmal
+
+Zeile 13 hinzugefügt, aber ich merke anschließend, dass ich es nicht brauche, also möchte ich den commit rückgängig machen.
